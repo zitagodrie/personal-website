@@ -1,7 +1,7 @@
 console.log('get_posts.js loaded');
 
 const badgeConfig = {
-    'test': { name: 'Test Category', icon: '✱', class: 'example_theme'}
+    'recipes': { name: 'Recipes', icon: '✱', class: 'recipes'}
 };
 
 const projectFiles = [

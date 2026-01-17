@@ -1,7 +1,7 @@
 ---
 title: Test Project
 description: This is a test project
-categories: [test]
+categories: [recipes]
 ---
 
 # Test Content
